@@ -1,0 +1,50 @@
+body {
+	height: 100%;
+	margin:1em;
+	text-align:left;
+	width: 100%;
+	font-family:Calibri, Palatino, serif;
+	background-image:
+	url("https://cdn141.picsart.com/275930222016201.jpg?type=webp&to=min&r=640");
+	background-size:cover;
+	padding:0px;
+}
+h2 {
+	font-size:2em;
+
+}
+
+ul {
+	font-size:16px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  }
+
+img {
+  float: right;
+  margin: 2em;
+}
+
+iframe {
+	float: right;
+	margin: 2em;
+}
+
+.heading {
+	line-height: 0.5em;
+	
+}
+
+h1 {
+	font-size: 52px;
+}
+.hero {
+font-size: 20px;
+font-weight:bold;
+font-family: Calibri, serif;
+}
